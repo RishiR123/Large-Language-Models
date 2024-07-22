@@ -1,6 +1,6 @@
 # 🎉 Large Language Models 🎉
 
-![Banner]([https://via.placeholder.com/800x200.png?text=Large+Language+Models+Party+Time](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9637571c-516c-4d03-bae5-080acb52bb1d_900x440.gif))
+![Banner]([[https://via.placeholder.com/800x200.gif?text=Large+Language+Models+Party+Time](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9637571c-516c-4d03-bae5-080acb52bb1d_900x440.gif)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9637571c-516c-4d03-bae5-080acb52bb1d_900x440.gif))
 
 Welcome, dear visitor, to the wacky world of Large Language Models, curated by none other than the legendary RishiR123. This repository is a treasure trove of LLM projects that will make you laugh, cry, and possibly question the meaning of life (or at least the meaning of really long sentences).
 

@@ -13,16 +13,17 @@ So you want to dive into the magical realm of LLMs? Fantastic! Follow these step
    git clone https://github.com/RishiR123/Large-Language-Models.git
    cd Large-Language-Models
    
-2. Run the Projects
+2. Run the Projects:
 Navigate to the desired project folder, follow the instructions, and prepare to be amazed.
 
-3. 🤝 Contributing
+3. 🤝 Contributing:
 Got a brilliant idea? A hilarious bug fix? Fork this repository, create new branches, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change. Remember, every contribution counts (except for that one guy who tried to convert everything to Comic Sans).
 
-4. 📜 License
+4. 📜 License:
 This project is licensed under the Apache-2.0 License - see the LICENSE file for details. Because even our licenses need to be fancy.
 
 ✨ Best Wishes
+
 Best wishes,
 RishiR 🎩✨
 

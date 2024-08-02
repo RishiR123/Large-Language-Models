@@ -8,7 +8,7 @@ Welcome, dear visitor, to the wacky world of Large Language Models, curated by n
 
 So you want to dive into the magical realm of LLMs? Fantastic! Follow these steps, and may the force be with you:
 
-1. **Clone the Repository**
+1. **Clone the Repository*
    ```bash
    git clone https://github.com/RishiR123/Large-Language-Models.git
    cd Large-Language-Models
